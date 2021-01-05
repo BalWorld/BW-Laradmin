@@ -9,7 +9,7 @@ Laravel 7.x Starter Template for Content Management System.
 - File Upload.
 - Table Example, MVC Framework.
 
-More Fetures adding soon.  
+More Features adding soon.  
 Based on Laravel, Bootstrap.
 
 **Interested? Contribute to BW-Laradmin Github.**  
